@@ -1,3 +1,6 @@
+console.log('Hello from global.js');
+console.log('Hello from global.js from the child theme');
+
 function getFocusableElements(container) {
   return Array.from(
     container.querySelectorAll(
