@@ -1,5 +1,8 @@
 console.log('Hello from global.js');
+<<<<<<< HEAD
 console.log('Hello from global.js from the child theme');
+=======
+>>>>>>> 92958cd978fa98cc072cbd67b347719824e6e753
 
 function getFocusableElements(container) {
   return Array.from(
