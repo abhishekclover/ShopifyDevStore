@@ -1,3 +1,5 @@
+console.log('Hello from global.js');
+
 function getFocusableElements(container) {
   return Array.from(
     container.querySelectorAll(
